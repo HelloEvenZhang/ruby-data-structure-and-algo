@@ -1,5 +1,5 @@
 # ruby-data-structure-and-algo
-Basic data structure and algorithm with ruby
+用Ruby实现以下基础的数据结构
 
 ## 数组
 * 实现一个支持动态扩容的数组
